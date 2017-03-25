@@ -2,6 +2,12 @@
 Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secure Systems - Coursera
 
 ## Course 1 - Usable Security
+* Human Computer interaction
+* Design methodologies
+* Evaluations
+* Guidelines for usable security
+* Authentications
+* Usable privacy
 
 ## Course 2 - Software Security 
 
