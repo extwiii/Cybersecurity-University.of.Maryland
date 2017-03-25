@@ -2,7 +2,7 @@
 Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secure Systems - Coursera
 
 #### Taught by: 
-####
+#### Jennifer Golbeck, Director, Human-Computer Interaction Lab
 
 ### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
