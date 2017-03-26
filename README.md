@@ -3,6 +3,11 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
 
 ## Course 1 - Usable Security
 * Fundamentals of Human-Computer Interaction
+  * Integrate an understanding of human abilities with technological demands
+  * Develop task lists
+  * Identify usability issues, problems, and successes
+  * [Usability 101](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
+  * [Human-Computer Interaction](http://fit.mta.edu.vn/files/DanhSach/__Human_computer_interaction.pdf)
 * Design
 * Evaluation
 * Strategies for Secure Interaction Design
