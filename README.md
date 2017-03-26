@@ -8,7 +8,15 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * Identify usability issues, problems, and successes
   * [Usability 101](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
   * [Human-Computer Interaction](http://fit.mta.edu.vn/files/DanhSach/__Human_computer_interaction.pdf)
+  
 * Design
+  * Exercise design methodology to develop an interface
+  * Choose appropriate design techniques for your task
+  * See how design lessons apply to building secure systems
+  * [Crying Wolf: An Empirical Study of SSL Warning Effectiveness](https://www.usenix.org/legacy/event/sec09/tech/full_papers/sec09_browser.pdf)
+  * [Human-Centered Design](http://www.ted.com/talks/david_kelley_on_human_centered_design)
+  * [How to brainstorm-video tutorials](https://dschool-old.stanford.edu/groups/k12/wiki/3bae4/How_to_brainstorm__video_tutorials.html)
+  
 * Evaluation
 * Strategies for Secure Interaction Design
 * Usable Authentication
