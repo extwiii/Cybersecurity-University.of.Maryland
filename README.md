@@ -18,6 +18,13 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * [How to brainstorm-video tutorials](https://dschool-old.stanford.edu/groups/k12/wiki/3bae4/How_to_brainstorm__video_tutorials.html)
   
 * Evaluation
+  * Perform qualitative usability analysis
+  * Run quantitative analyses
+  * Execute a usability study
+  * Read and analyze evaluations conducted by others
+  * [You've been warned: an empirical study of the effectiveness of web browser phishing warnings](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1023&context=isr&sei-redir=1&referer=http%3A%2F%2Fscholar.google.com%2Fscholar%3Fhl%3Den%26q%3Dphishing%2Bwarnings%26btnG%3D%26as_sdt%3D1%252C21%26as_sdtp%3D#search=%22phishing%20warnings%22)
+  * [Introduction to Usability Testing](https://designhammer.com/services/usability/introduction)
+
 * Strategies for Secure Interaction Design
 * Usable Authentication
 * Usable privacy
