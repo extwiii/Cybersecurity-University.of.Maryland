@@ -26,7 +26,19 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * [Introduction to Usability Testing](https://designhammer.com/services/usability/introduction)
 
 * Strategies for Secure Interaction Design
+  * Apply guidelines for creating usable security
+  * Analyze the delegation of authority in secure systems
+  * Understand how guidelines are applied (or not) in existing systems and how it affects usability
+  * [Secure Interaction Design](http://sid.toolness.org/ch13yee.pdf)
+
 * Usable Authentication
+  * Describe many types of authentication mechanisms
+  * Understand the usability of various authentication mechanisms and how they relate to security
+  * [Your Online Secrets](https://www.psychologytoday.com/blog/your-online-secrets/201410/the-psychology-choosing-passwords)
+  * [The Usability of Passwords](https://www.baekdal.com/insights/password-security-usability)
+  * [Smudge Attacks on Smartphone Touch Screens](https://www.usenix.org/legacy/event/woot10/tech/full_papers/Aviv.pdf)
+  * [XKCD Password Security](https://xkcd.com/936/)
+  
 * Usable privacy
 
 ## Course 2 - Software Security 
