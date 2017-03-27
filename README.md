@@ -55,6 +55,7 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
 
 #### Taught by: 
 #### Jennifer Golbeck, Director, Human-Computer Interaction Lab
+#### Michael Hicks, Professor, Department of Computer Science
 
 ### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
