@@ -40,6 +40,12 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * [XKCD Password Security](https://xkcd.com/936/)
   
 * Usable privacy
+  * Design usable privacy systems
+  * Help users express privacy preferences
+  * Evaluate the usability of privacy systems
+  * [Why we overshare online](https://www.psychologytoday.com/blog/your-online-secrets/201410/why-we-overshare-online)
+  * [Five Pitfalls for Designers](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1077&context=hcii&sei-redir=1)
+  * [Informed Consent by Design](https://d3c33hcgiwev3.cloudfront.net/_cd7d40dc30e8eea51dc78591863ea853_ch24friedman.pdf?Expires=1490745600&Signature=Wze1kWEZkQIj2P-p2xzER9M~pTrUWdTz4M8ApScqmAGWkStPNJRvRUHsXCsrRAk5NcdaXz9wzK8RL~xSsodGo0GWefJOTVefON2sv9pNY3bDuDtgRmodZjyB8bjNsQPV0tCl-ag0s0Z-HOuhX9uckvgX8Vza4wnGwpYzuDGcTHI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ## Course 2 - Software Security 
 
