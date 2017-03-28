@@ -48,6 +48,12 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * [Informed Consent by Design](https://d3c33hcgiwev3.cloudfront.net/_cd7d40dc30e8eea51dc78591863ea853_ch24friedman.pdf?Expires=1490745600&Signature=Wze1kWEZkQIj2P-p2xzER9M~pTrUWdTz4M8ApScqmAGWkStPNJRvRUHsXCsrRAk5NcdaXz9wzK8RL~xSsodGo0GWefJOTVefON2sv9pNY3bDuDtgRmodZjyB8bjNsQPV0tCl-ag0s0Z-HOuhX9uckvgX8Vza4wnGwpYzuDGcTHI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 ## Course 2 - Software Security 
+* LOW-LEVEL SECURITY
+* DEFENDING AGAINST LOW-LEVEL EXPLOITS
+* WEB SECURITY
+* SECURE SOFTWARE DEVELOPMENT
+* PROGRAM ANALYSIS
+* PEN TESTING
 
 ## Course 3 - Cryptography
 
