@@ -49,6 +49,13 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
 
 ## Course 2 - Software Security 
 * LOW-LEVEL SECURITY
+  * Understand the standard memory layout of running processes on the x86 architecture
+  * Identify buffer overflows and related memory-based vulnerabilities in C programs, such as those based on format strings
+  * Construct a simple exploit of a buffer overflow
+  * Understand how exploits can inject remote code, and perform other security compromises
+  * [Common vulnerabilities guide for C programmers](https://security.web.cern.ch/security/recommendations/en/codetools/c.shtml)
+  * [Memory Layout of C Programs](http://www.geeksforgeeks.org/memory-layout-of-c-program/)
+  
 * DEFENDING AGAINST LOW-LEVEL EXPLOITS
 * WEB SECURITY
 * SECURE SOFTWARE DEVELOPMENT
