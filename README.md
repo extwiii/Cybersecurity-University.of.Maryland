@@ -57,6 +57,13 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * [Memory Layout of C Programs](http://www.geeksforgeeks.org/memory-layout-of-c-program/)
   
 * DEFENDING AGAINST LOW-LEVEL EXPLOITS
+  * Comprehend the meaning of the properties memory safety, and type safety
+  * Memory-based attacks, including stack canaries, data execution protection (DEP), and address space layout randomization (ASLR)
+  * Understand how attacks based on return-oriented programming (ROP) work
+  * Understand the concept of control-flow integrity (CFI) and how it can defeat ROP-based attacks
+  * [What is memory safety?](http://www.pl-enthusiast.net/2014/07/21/memory-safety/)
+  * [What is type safety?](http://www.pl-enthusiast.net/2014/08/05/type-safety/)
+
 * WEB SECURITY
 * SECURE SOFTWARE DEVELOPMENT
 * PROGRAM ANALYSIS
