@@ -74,6 +74,13 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * [2011 CWE/SANS Top 25 Most Dangerous Software Errors](http://cwe.mitre.org/top25/)
   
 * SECURE SOFTWARE DEVELOPMENT
+  * Enumerate a series of design principles for writing secure software
+  * Explain how such principles can be violated, pointing to actual incidents
+  * Put these principles into practice by drawing inspiration from well-designed, secure systems
+  * [The Protection of Information in Computer Systems](http://web.mit.edu/Saltzer/www/publications/protection/)
+  * [Avoiding the Top 10 Software Security Design Flaws ](http://cybersecurity.ieee.org/blog/2015/11/13/avoiding-the-top-10-security-flaws/)
+  * [Building Security In](http://www.swsec.com/)
+  
 * PROGRAM ANALYSIS
 * PEN TESTING
 
