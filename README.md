@@ -89,6 +89,11 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * [Using Static Analysis to Find Bugs in the Real World](http://cacm.acm.org/magazines/2010/2/69354-a-few-billion-lines-of-code-later/fulltext)
   
 * PEN TESTING
+  * Understand what penetration testing is and what it achieves
+  * Know the basics of several state-of-the-art penetration testing tools
+  * Understand fuzz testing techniques and how they compare
+  * [Ware report](http://www.rand.org/pubs/reports/R609-1/index2.html)
+  * [Defcon CTF contest](https://www.defcon.org/html/links/dc-ctf.html)
 
 ## Course 3 - Cryptography
 
