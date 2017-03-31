@@ -82,6 +82,12 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * [Building Security In](http://www.swsec.com/)
   
 * PROGRAM ANALYSIS
+  * Know what static analysis (SA) and symbolic execution (SE) are, how they compare, and why they are hard
+  * Understand the basics of each approach
+  * Understand how to improve the precision and scalability of each approach
+  * [What is noninterference, and how do we enforce it?](http://www.pl-enthusiast.net/2015/03/03/noninterference/)
+  * [Using Static Analysis to Find Bugs in the Real World](http://cacm.acm.org/magazines/2010/2/69354-a-few-billion-lines-of-code-later/fulltext)
+  
 * PEN TESTING
 
 ## Course 3 - Cryptography
