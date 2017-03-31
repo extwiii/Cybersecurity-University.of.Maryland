@@ -96,12 +96,20 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * [Defcon CTF contest](https://www.defcon.org/html/links/dc-ctf.html)
 
 ## Course 3 - Cryptography
+* Introduction and Classical Cryptography
+* Computational Secrecy and Principles of Modern Cryptography
+* Private-Key Encryption
+* Message Authentication Codes
+* Number Theory
+* Key Exchange and Public-Key Encryption
+* Digital Signatures
 
 ## Course 4 - Hardware Security
 
 #### Taught by: 
 #### Jennifer Golbeck, Director, Human-Computer Interaction Lab
 #### Michael Hicks, Professor, Department of Computer Science
+#### Jonathan Katz, Director, Maryland Cybersecurity Center
 
 ### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
