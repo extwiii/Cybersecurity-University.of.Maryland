@@ -97,6 +97,10 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
 
 ## Course 3 - Cryptography
 * Introduction and Classical Cryptography
+  * Private-key encryption
+  * Classical encryption schemes
+  * Notion of perfect secrecy, and present a scheme that provably achieves this notion of security
+
 * Computational Secrecy and Principles of Modern Cryptography
 * Private-Key Encryption
 * Message Authentication Codes
