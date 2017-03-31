@@ -65,6 +65,14 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * [What is type safety?](http://www.pl-enthusiast.net/2014/08/05/type-safety/)
 
 * WEB SECURITY
+  * Understand how SQL injection attacks affect web application back ends
+  * Session hijacking and Cross-site Request Forgery (CSRF) attacks
+  * Understand how popular, browser-executed Javascript programs can be used incorrectly by web sites
+  * Focus on employing input validation and sanitization
+  * [SQL Injection](https://www.owasp.org/index.php/SQL_Injection)
+  * [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/)
+  * [2011 CWE/SANS Top 25 Most Dangerous Software Errors](http://cwe.mitre.org/top25/)
+  
 * SECURE SOFTWARE DEVELOPMENT
 * PROGRAM ANALYSIS
 * PEN TESTING
