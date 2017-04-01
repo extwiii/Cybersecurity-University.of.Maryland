@@ -102,6 +102,10 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * Notion of perfect secrecy, and present a scheme that provably achieves this notion of security
 
 * Computational Secrecy and Principles of Modern Cryptography
+  * Computational security, central concept of modern cryptography
+  * Pseudorandom generator, also known as a stream cipher in practice
+  * Roof by reduction, a powerful technique for proving schemes secure
+
 * Private-Key Encryption
 * Message Authentication Codes
 * Number Theory
