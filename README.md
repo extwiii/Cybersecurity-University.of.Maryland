@@ -107,6 +107,11 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * Roof by reduction, a powerful technique for proving schemes secure
 
 * Private-Key Encryption
+  * Private-key encryption by looking at stronger security notions and efficient schemes achieving them
+  * Pseudorandom functions (aka, block ciphers)
+  * Security against chosen-ciphertext attacks
+  * Padding-oracle attack
+
 * Message Authentication Codes
 * Number Theory
 * Key Exchange and Public-Key Encryption
