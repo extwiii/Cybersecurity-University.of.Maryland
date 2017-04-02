@@ -125,6 +125,10 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * Discrete logarithms in certain groups, and Diffie-Hellman problems
 
 * Key Exchange and Public-Key Encryption
+  * Public-key cryptography (in general) and public-key encryption (in particular)
+  * Diffie-Hellman key-exchange protocol
+  * Public-key encryption schemes based on both the discrete-logarithm (technically, decisional Diffie-Hellman) problem, and the RSA problem
+
 * Digital Signatures
 
 ## Course 4 - Hardware Security
