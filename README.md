@@ -130,6 +130,10 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * Public-key encryption schemes based on both the discrete-logarithm (technically, decisional Diffie-Hellman) problem, and the RSA problem
 
 * Digital Signatures
+  * Digital signatures, which can be used to provide integrity in the public-key setting
+  * Signature constructions based on the RSA and discrete-logarithm problems
+  * Important application of digital signatures to public-key distribution in today's Internet
+  * SSL/TLS protocol, which you are using right now as you view this page
 
 ## Course 4 - Hardware Security
 
