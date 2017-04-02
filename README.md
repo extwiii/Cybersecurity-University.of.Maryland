@@ -113,6 +113,11 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * Padding-oracle attack
 
 * Message Authentication Codes
+  * Message integrity
+  * Message authentication codes
+  * Secrecy and integrity in authenticated encryption
+  * Secure communication sessions
+
 * Number Theory
 * Key Exchange and Public-Key Encryption
 * Digital Signatures
