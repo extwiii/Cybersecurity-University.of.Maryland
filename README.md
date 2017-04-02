@@ -141,6 +141,7 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
 #### Jennifer Golbeck, Director, Human-Computer Interaction Lab
 #### Michael Hicks, Professor, Department of Computer Science
 #### Jonathan Katz, Director, Maryland Cybersecurity Center
+#### Gang Qu, Associate Professor, Electrical and Computer Engineering
 
 ### Rating :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
 ### Difficulty :full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon:
