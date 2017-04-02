@@ -119,6 +119,11 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * Secure communication sessions
 
 * Number Theory
+  * Public-key cryptography in group theory and number theory
+  * Number-theoretic assumptions
+  * Hardness of factoring, and the related RSA problem
+  * Discrete logarithms in certain groups, and Diffie-Hellman problems
+
 * Key Exchange and Public-Key Encryption
 * Digital Signatures
 
