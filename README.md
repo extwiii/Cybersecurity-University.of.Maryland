@@ -160,6 +160,11 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * Get better understanding on how to implement security primitives such as RSA securely
 
 * Hardware Trojan and Physical Unclonable Functions
+  * Understand various kind of hardware Trojan and how they work
+  * Know the popular hardware Trojan detection approaches
+  * Study several practical methods for hardware Torjan prevention
+  * Expose the concept of trusted integrated circuits and how to build trust in ICs
+
 * Emerging Hardware Security Topics
 
 #### Taught by: 
