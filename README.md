@@ -147,6 +147,12 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * Assess the trade-off among security, cost and performance
 
 * Physical Attacks and Modular Exponentiation
+  * Understand the vulnerability to a system from hardware (physical attacks)
+  * Learn the available countermeasures to physical attacks
+  * Perform security evaluation for the hardware implementation of security modules
+  * Modular exponentiation, various ways to evaluate it and the security vulnerability
+  * [Physical Attacks and Tamper Resistance](http://www.cl.cam.ac.uk/~sps32/PartII_030214.pdf)
+
 * Side Channel Attacks
 * Hardware Trojan and Physical Unclonable Functions
 * Emerging Hardware Security Topics
