@@ -136,6 +136,12 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * SSL/TLS protocol, which you are using right now as you view this page
 
 ## Course 4 - Hardware Security
+* Digital System Design: Basics and Vulnerabilities
+* Design Intellectual Property (IP) Protection
+* Physical Attacks and Modular Exponentiation
+* Side Channel Attacks
+* Hardware Trojan and Physical Unclonable Functions
+* Emerging Hardware Security Topics
 
 #### Taught by: 
 #### Jennifer Golbeck, Director, Human-Computer Interaction Lab
