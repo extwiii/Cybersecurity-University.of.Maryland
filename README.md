@@ -137,6 +137,11 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
 
 ## Course 4 - Hardware Security
 * Digital System Design: Basics and Vulnerabilities
+  * Understand how digital system is specified, implemented, and optimized
+  * Learn what are sequential systems and how they are designed
+  * Identify the don't care conditions introduced during the design process
+  * Know that there exist security and trust vulnerabilities in hardware
+
 * Design Intellectual Property (IP) Protection
 * Physical Attacks and Modular Exponentiation
 * Side Channel Attacks
