@@ -1,4 +1,4 @@
-# Cybersecurity-University.of.Maryland
+# Cybersecurity-University.of.Maryland :white_check_mark:
 Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secure Systems - Coursera
 
 ## Course 1 - Usable Security
@@ -166,6 +166,9 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * Expose the concept of trusted integrated circuits and how to build trust in ICs
 
 * Emerging Hardware Security Topics
+  * Know the basics of TPM
+  * Understand what is PUF and how it can help to build more secure system
+  * Learn the vulnerabilities and countermeasures in FPGA design and FPGA-based systems
 
 #### Taught by: 
 #### Jennifer Golbeck, Director, Human-Computer Interaction Lab
