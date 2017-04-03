@@ -143,6 +143,9 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * Know that there exist security and trust vulnerabilities in hardware
 
 * Design Intellectual Property (IP) Protection
+  * Learn self-protection techniques for design IPs: watermarking, fingerprinting, metering
+  * Assess the trade-off among security, cost and performance
+
 * Physical Attacks and Modular Exponentiation
 * Side Channel Attacks
 * Hardware Trojan and Physical Unclonable Functions
