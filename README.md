@@ -154,6 +154,11 @@ Cybersecurity Specialization - Cybersecurity Fundamentals. Construction of Secur
   * [Physical Attacks and Tamper Resistance](http://www.cl.cam.ac.uk/~sps32/PartII_030214.pdf)
 
 * Side Channel Attacks
+  * Learn the vulnerabilities of information leak from side channels
+  * Understand how attacks can be launched from various side channels
+  * Consider the potential side channel information leak when you design a secure system
+  * Get better understanding on how to implement security primitives such as RSA securely
+
 * Hardware Trojan and Physical Unclonable Functions
 * Emerging Hardware Security Topics
 
